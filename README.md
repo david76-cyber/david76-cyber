@@ -17,7 +17,7 @@
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
   - [GUI-Password_Gen](https://github.com/david76-cyber/GUI-Password-Generator)
-  - [GUI-Password_Gen](https://github.com/david76-cyber/GUI-Password-Generator)
+  - [File-Organizer](https://github.com/david76-cyber/File-Organizer-Python-)
 
 <h2>📺 Popular YouTube Videos</h2>
 
