@@ -1,4 +1,4 @@
-<h1>Hi, I'm David! <br/><a href="https://github.com/davidsakai"></a>, Cybersecurity student</a>, <a href="https://www.youtube.com/@David-nn2gr">YouTuber</a></h1>
+<h1>Hi, I'm David! <br/><a href="https://github.com/davidsakai"></a>, Aspiring IT Specialist | SysAdmin in Training</a>
 
 <h2>👨‍💻 Projects:</h2>
 
