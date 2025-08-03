@@ -1,4 +1,4 @@
-<h1>Hi, I'm David! <br/><a href="https://github.com/davidsakai"></a>, Aspiring IT Specialist | SysAdmin in Training</a>
+<h1>Hi, I'm David! <br/> Aspiring IT Specialist | SysAdmin in Training</a>
 
 <h2>👨‍💻 Projects:</h2>
 
