@@ -16,7 +16,8 @@
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [GUI-Password_Gen](https://github.com/david76-cyber/GUI-Password-Generator)
+  - [GUI-Password_Gen](https://github.com/david76-cyber/GUI-Password-Generator)
 
 <h2>📺 Popular YouTube Videos</h2>
 
