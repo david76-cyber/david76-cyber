@@ -9,7 +9,6 @@
 - <b>PowerShell</b>
   - [Secure-File-Transfer-Tool](https://github.com/david76-cyber/Secure-File-Transfer-Tool)
   - [Windows-System-Audit](https://github.com/david76-cyber/Windows-System-Audit)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [Network-Toolkit](https://github.com/david76-cyber/Network-Toolkit)
 
 - <b>Python</b>
